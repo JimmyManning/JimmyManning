@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JimmyManning a Cheif/Principal engineer at Eaton
+- 👋 Hi, I’m @JimmyManning a Chief/Principal engineer at Eaton
 - 👀 I’m interested in Embedded Systems, homebrewing, and running
 - ⚒️ C++, C, Yocto, Bazel
 - 💻 Linux, Yocto, u-boot
